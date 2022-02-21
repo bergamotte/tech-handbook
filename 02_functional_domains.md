@@ -43,7 +43,7 @@ Any of our developments will involve one or more of these functional domains tha
 
 ## Customer Service and internal tools
 - CS shop
-- CS customer troubleshooting (order modification, coupons, subscriptions
+- CS customer troubleshooting (order modification, coupons, subscriptions...)
 - Marketing tools and automations
 - Finance tools
 - Interdepartamental reports and dashboards

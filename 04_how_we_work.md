@@ -4,7 +4,7 @@
 We work in development cycles that last around 3-4 weeks.
 At the end of each cycle we have a cooldown period that we take to reflect on what we have accomplished, fix and polish small changes to what was released that went thru the cracks.
 
-Any given week (read frequently), Product and Project Manager, CTO and Principal Developer meet to draft and prioritize what we should take on the next cycle wit the help of team members and stakeholders.
+Any given week (read frequently), Product and Project Manager, CTO and Principal Developer meet to draft and prioritize what we should take on the next cycle with the help of team members and stakeholders.
 
 When we are close to finishing the current cycle, the next cycle has already been defined and is ready to start when we decide to do so.
 
@@ -12,7 +12,7 @@ When we are close to finishing the current cycle, the next cycle has already bee
 Since we take a wide array of projects and sub-systems, it is increasingly difficult for any one person to keep in their head all the details.
 We instead promote the figure of the Domain Expert. This person is the go-to answer finder (might not now, but will figure out) in relation to the details of a particular functional domain. For example: what are the rules for sending Subscription automated emails?
 
-Functional domain experts oversee the well being of the tech documentation and troubleshooting techniques about particular domains. They collaborate with members develop changes to their respective domains to ensure documentation is updated and the functionality is good to go.
+Functional domain experts oversee the well being of the tech documentation and troubleshooting techniques about particular domains. They collaborate with members to develop changes to their respective domains to ensure documentation is updated and the functionality is good to go.
 
 This expertise is not technical and doesn't represent rank, only functional knowledge. Although organically, the technical intricacies will be in their head and their technical opinion is highly valued.
 

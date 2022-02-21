@@ -19,7 +19,7 @@ Before anything else, values come first. Without clear, shared values, we wander
 
 **Independence**. This one’s a bit of a contradiction. After speaking about shared values, here’s one that breaks away: Independence. We encourage independent thought and original thinking.
 
-**Innovation and improvement**. We should keep an eye for innovation on new features as well as evolving current ones. We should be on the lookout for improvements in different aspects of or work: in how we treat and help each other, in the code base, in the processes we follow, in our own craft...
+**Innovation and improvement**. We should keep an eye for innovation on new features as well as evolving current ones. We should be on the lookout for improvements in different aspects of our work: in how we treat and help each other, in the code base, in the processes we follow, in our own craft...
 
 ---
 
