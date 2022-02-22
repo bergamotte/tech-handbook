@@ -23,4 +23,4 @@ Before anything else, values come first. Without clear, shared values, we wander
 
 ---
 
-Continue to [How we work](04_how_we_work.md)
+Continue to [Functional Domains](functional_domains.md)

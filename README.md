@@ -11,8 +11,9 @@ If you have been a member of the team for a couple of months, an honest review o
 This handbook is just an overview. Internal detailed documentation will provide further information.
 
 ## Sections
-* [Welcome to the team](01_welcome_to_the_team.md)
-* [Functional domains](02_functional_domains.md)
-* [Values](03_values.md)
-* [How we work](04_how_we_work.md)
-* [Roles and career advancement](05_roles_and_career_advancement.md)
+* [Welcome to the team](welcome_to_the_team.md)
+* [Values](values.md)
+* [Functional domains](functional_domains.md)
+* [Tech stack and architecture](tech_stack_and_architecture.md)
+* [How we work](how_we_work.md)
+* [Roles and career advancement](roles_and_career_advancement.md)

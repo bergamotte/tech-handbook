@@ -30,7 +30,7 @@ You'll be tasked with some introductory development tasks that will serve as an 
 
 ### Your first week
 You'll have 1 on 1s with some people in the tech team, specially: CTO, Product and Project Manager and Principal Developer.
-You'll be contributing to development and releases and start participating in [how we work](./04_how_we_work.md).
+You'll be contributing to development and releases and start participating in [how we work](how_we_work.md).
 
 ### Your first few weeks
 You'll be working with different team members to start knowing each other better.
@@ -51,4 +51,4 @@ You'll find instructions about how to setup your dev environment on the [Readme]
 
 ---
 
-Continue to [Functional Domains](02_functional_domains.md)
+Continue to [Values](values.md)

@@ -60,4 +60,4 @@ Any of our developments will involve one or more of these functional domains tha
 
 ---
 
-Continue to [Values](03_values.md)
+Continue to [Tech stack and architecture](tech_stack_and_architecture.md)

@@ -7,7 +7,7 @@
 - Lead Software Developer
 - Principal Developer
 
-To have a more detailed description, see [role descriptions](05_01_role_descriptions.md).
+To have a more detailed description, see [role descriptions](role_descriptions.md).
 
 ## Areas of Management
 - Product
