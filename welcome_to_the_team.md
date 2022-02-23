@@ -10,7 +10,7 @@ As a newcomer, your perspective from a pair of fresh eyes is very valuable to us
 ## Where to find help
 Get yourself familiar with our internal documentation system. You'll find there general information about the different departments.
 
-To know more about the terms we use and our sub-systems, go out internal documentation engineering section.
+To know more about the terms we use and our sub-systems, check out the internal documentation engineering section.
 
 You have already met some of the team members during the hiring process.
 
@@ -22,7 +22,7 @@ You'll be assigned a "buddy" that will help you land on your feet from the start
 ### Your first day
 We'll do a meetup with the tech team and introduce ourselves.
 You'll have a 1 on 1 with your buddy to say hi and get you started.
-You'll be invited to the different slack channels were all tech communicate between ourselves and with other departments.
+You'll be invited to the different slack channels where the tech team communicates between ourselves and with other departments.
 
 Your buddy will help you finish your local setup.
 
