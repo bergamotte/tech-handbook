@@ -56,7 +56,7 @@ Keep and eye on improving:
 - Jumps into execution without careful consideration.
 - Released features need unforeseen follow-up releases (lets details slip through the cracks).
 - Always says “yes” and suffers burn-out.
-- Difficulties following new technologies or industry tends.
+- Difficulties following new technologies or industry trends.
 - Excessive friction adapting to change and valuing different perspectives.
 - Disregards mentoring or doesn't communicate appropriately to mentees.
 
